@@ -170,6 +170,8 @@ select count(*) from city;
  
 
 delete from country; 
+
+select * from emp;
 	
    
 	   
